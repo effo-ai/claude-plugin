@@ -1,0 +1,14 @@
+{
+  "client": "claude",
+  "version": "0.1.0",
+  "files": {
+    ".claude-plugin/marketplace.json": "bf6e76335d32128eef3512afac6c63676e27c02c7cb4fd706671132581b30470",
+    "plugins/effo/.claude-plugin/plugin.json": "710584474d34e1ea29456866f428b8aa4751dc2396b89f558dcc63e172344748",
+    "plugins/effo/.mcp.json": "391b9a3453debcea8fbee6274b2e76265d6294d7ceaeac079577139139d29b58",
+    "plugins/effo/assets/icon.svg": "215b4fb27b4cb0aa9da1a421d7de69ad355fd5b617f520e2a6e25414f7337f53",
+    "plugins/effo/skills/effo-agent/SKILL.md": "4c445807def9a600c2d9048ba8299f69e21f43f3fd8f64eb63f409c01a8613f8",
+    "plugins/effo/skills/effo-explore/SKILL.md": "8a9439986e5ce0b56e8bf0d4fc74233559cec284080d49e2c0f547a92ec6959d",
+    "plugins/effo/skills/effo-runs/SKILL.md": "75482c2e26d4fb4963ec2b60523a728c033a198581961ee09c006465e5ebea3f",
+    "README.md": "551fa950211e8975b8e58be6585cffd7342bb98fa745232c9d368709b74b294c"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "effo",
+  "description": "Work with Effo apps, agents, and workflow runs.",
+  "author": { "name": "Effo", "url": "https://effo.ai" },
+  "homepage": "https://effo.ai",
+  "keywords": ["effo", "apps", "agents", "workflows"],
+  "version": "0.1.0"
+}

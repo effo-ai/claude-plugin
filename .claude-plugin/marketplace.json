@@ -1,0 +1,15 @@
+{
+  "name": "effo",
+  "owner": { "name": "Effo", "url": "https://effo.ai" },
+  "metadata": {
+    "description": "Work with Effo apps, agents, and workflow runs."
+  },
+  "plugins": [
+    {
+      "name": "effo",
+      "source": "./plugins/effo",
+      "version": "0.1.0",
+      "description": "Work with Effo apps, agents, and workflow runs."
+    }
+  ]
+}
